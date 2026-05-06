@@ -4,7 +4,7 @@
 
 ## 데모
 
-<video src="ar_output.mp4" controls width="100%"></video>
+<img src="ar_output.gif" width="640">
 
 ## 동작 원리
 
